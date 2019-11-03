@@ -28,8 +28,8 @@
     "eslint-config-prettier": "6.5.0",
     "eslint-plugin-import": "2.18.2",
     "eslint-plugin-prettier": "3.1.1",
-    "husky": "^3.0.9",
-    "lint-staged": "^9.4.2",
+    "husky": "3.0.9",
+    "lint-staged": "9.4.2",
     "nightwatch": "1.2.4",
     "prettier": "1.18.2"
   },
