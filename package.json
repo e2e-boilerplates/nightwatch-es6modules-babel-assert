@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx nightwatch",
+    "test-ci": "npx nightwatch -c nightwatch-ci.conf.js",
     "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [
