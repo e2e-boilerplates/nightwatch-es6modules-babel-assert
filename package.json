@@ -4,9 +4,9 @@
   "description": "nightwatch end-to-end test automation boilerplate project. Using ES6 modules, babel and assert.",
   "main": "index.js",
   "scripts": {
+    "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx nightwatch",
-    "test-ci": "npx nightwatch -c nightwatch-ci.conf.js",
-    "lint": "npx eslint --ext .js ./ --fix"
+    "test-ci": "npx nightwatch -c nightwatch-ci.conf.js"
   },
   "keywords": [
     "nightwatch",
