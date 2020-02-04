@@ -1,4 +1,4 @@
-name: nightwatch-es6modules-babel-assert
+name: nightwatch-es6-modules-babeljs-assert
 
 on: 
   push:
