@@ -1,7 +1,7 @@
 {
   "name": "nightwatch-es6modules-babel-assert",
   "version": "1.0.0",
-  "description": "nightwatch end-to-end test automation boilerplate project. Using ES6 modules, babel and assert.",
+  "description": "nightwatch end-to-end test automation boilerplate, using ES6-modules, BabelJS and Assert.",
   "main": "index.js",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
