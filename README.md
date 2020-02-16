@@ -1,7 +1,7 @@
 # nightwatch (ES6-modules, BabelJS, Assert)
 [![GitHub Actions status | e2e-boilerplates/nightwatch-es6-modules-babeljs-assert](https://github.com/e2e-boilerplates/nightwatch-es6-modules-babeljs-assert/workflows/nightwatch-es6-modules-babeljs-assert/badge.svg)](https://github.com/e2e-boilerplates/nightwatch-es6-modules-babeljs-assert/actions?workflow=nightwatch-es6-modules-babeljs-assert)
 
-nightwatch end-to-end test automation boilerplate, using ES6 modules, babel and assert.
+nightwatch end-to-end test automation boilerplate, using ES6 modules, BabelJS and Assert.
 
 ## Getting Started
 
