@@ -1,19 +1,20 @@
 {
-  "name": "nightwatch-es6modules-babel-assert",
+  "name": "nightwatch-es6-modules-babeljs-assert",
   "version": "1.0.0",
-  "description": "nightwatch end-to-end test automation boilerplate, using ES6-modules, BabelJS and Assert.",
+  "description": "Nightwatch end-to-end test automation boilerplate, using ES6 modules, BabelJS and Assert.",
   "main": "index.js",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
-    "test": "npx nightwatch",
-    "test-ci": "npx nightwatch -c nightwatch-ci.conf.js"
+    "test": "npx nightwatch"
   },
   "keywords": [
     "nightwatch",
-    "es6 modules",
+    "es6",
     "babel",
     "boilerplate",
-    "example"
+    "example",
+    "e2e",
+    "e2e test"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
@@ -35,7 +36,7 @@
     "prettier": "1.19.1"
   },
   "dependencies": {
-    "@babel/register": "^7.6.2"
+    "@babel/register": "7.6.2"
   },
   "husky": {
     "hooks": {
