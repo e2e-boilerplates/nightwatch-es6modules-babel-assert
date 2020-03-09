@@ -1,11 +1,8 @@
-# Nightwatch (ES6-modules, BabelJS and Assert)
-[![GitHub Actions status | e2e-boilerplates/nightwatch-es6-modules-babeljs-assert](https://github.com/e2e-boilerplates/nightwatch-es6-modules-babeljs-assert/workflows/nightwatch-es6-modules-babeljs-assert/badge.svg)](https://github.com/e2e-boilerplates/nightwatch-es6-modules-babeljs-assert/actions?workflow=nightwatch-es6-modules-babeljs-assert)
-
-Nightwatch end-to-end test automation boilerplate, using ES6 modules, BabelJS and Assert.
-
-## Getting Started
-
-    git clone git@github.com:e2e-boilerplates/nightwatch-es6-modules-babeljs-assert.git
-    cd nightwatch-es6-modules-babeljs-assert
-    npm install
-    npm run test
+[![GitHub Actions status | e2e-boilerplate/nightwatch-es-modules-babel-assert](https://github.com/e2e-boilerplate/nightwatch-es-modules-babel-assert/workflows/nightwatch-es-modules-babel-assert/badge.svg)](https://github.com/e2e-boilerplate/nightwatch-es-modules-babel-assert/actions?workflow=nightwatch-es-modules-babel-assert)
+  # Nightwatch Boilerplate
+  Nightwatch end-to-end test automation boilerplate, using ES Modules, Babel and Assert.
+  ## Getting Started
+  	 git clone git@github.com:e2e-boilerplate/nightwatch-es-modules-babel-assert.git 
+	 cd nightwatch-es-modules-babel-assert 
+	 npm install 
+	 npm run test 
