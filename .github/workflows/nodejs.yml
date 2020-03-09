@@ -1,4 +1,4 @@
-name: nightwatch-es-modules-babeljs-assert
+name: nightwatch-es-modules-babel-assert
 'on':
   push: null
   schedule:
