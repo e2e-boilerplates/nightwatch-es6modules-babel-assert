@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/nightwatch-es-modules-babel-assert](https://github.com/e2e-boilerplate/nightwatch-es-modules-babel-assert/workflows/nightwatch-es-modules-babel-assert/badge.svg)](https://github.com/e2e-boilerplate/nightwatch-es-modules-babel-assert/actions?workflow=nightwatch-es-modules-babel-assert)
+[![GitHub Actions status | e2e-boilerplate/nightwatch-es-modules-babel-assert](https://github.com/e2e-boilerplate/nightwatch-es-modules-babel-assert/workflows/nightwatch-es-modules-babel-assert/badge.svg)](https://github.com/e2e-boilerplate/nightwatch-es-modules-babel-assert/actions?workflow=nightwatch-es-modules-babel-assert) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 # Nightwatch Boilerplate
     
