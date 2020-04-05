@@ -1,0 +1,12 @@
+| referrer                                                                     | count | uniques |
+| :--------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/nightwatch-es-modules-babel-assert/actions                  | 11    | 2       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-assert/actions/runs/61899941    | 7     | 2       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-assert                          | 7     | 1       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-assert/runs/529287493           | 6     | 2       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-assert/blob/master/package.json | 4     | 1       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-assert/actions/runs/62548464    | 2     | 1       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-assert/runs/531850653           | 2     | 1       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-assert/actions/runs/61911132    | 1     | 1       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-assert/actions/runs/61951850    | 1     | 1       |
+| /e2e-boilerplate/nightwatch-es-modules-babel-assert/actions/runs/64985230    | 1     | 1       |
