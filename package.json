@@ -34,13 +34,14 @@
   "keywords": [
     "assert",
     "babel",
-    "boilerplate",
+    "es modules",
+    "nightwatch",
     "e2e",
     "e2e tests",
-    "es modules",
-    "example",
+    "boilerplate",
     "integration test",
-    "nightwatch"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
